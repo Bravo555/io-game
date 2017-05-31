@@ -1,0 +1,26 @@
+{
+  "name": "io-game",
+  "version": "0.0.1",
+  "description": "Simple agar.io clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiekiszZasadniczy/io-game.git"
+  },
+  "keywords": [
+    "agar.io",
+    "clone"
+  ],
+  "author": "ZSA Gamedev++",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiekiszZasadniczy/io-game/issues"
+  },
+  "homepage": "https://github.com/MiekiszZasadniczy/io-game#readme",
+  "dependencies": {
+    "p5": "^0.5.10"
+  }
+}
